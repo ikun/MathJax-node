@@ -8,7 +8,7 @@
     ],
     "bugs": {
         "email": "dpvc@union.edu",
-        "url": "http://github.com/mathjax/MathJax-node/issues"
+        "url": "http://github.com/everyx/MathJax-node/issues"
     },
     "license": {
         "type": "Apache",
@@ -16,12 +16,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/mathjax/MathJax-node.git"
+        "url": "git://github.com/everyx/MathJax-node.git"
     },
     "dependencies": {
        "jsdom": "1.0.2",
        "speech-rule-engine": "*",
        "yargs": "*",
+       "svg2png": "1.1.0",
        "MathJax": "https://github.com/mathjax/MathJax/tarball/mathjax-node"
     },
     "main": "./lib/mj-page.js"
