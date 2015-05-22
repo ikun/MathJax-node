@@ -14,7 +14,7 @@ of calling the MathJax API.
 
 Use
 
-    npm install https://github.com/everyx/MathJax-node/tarball/master
+    npm install https://github.com/ikun/MathJax-node/tarball/master
 
 to install MathJax-node and its dependencies.
 
